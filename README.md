@@ -35,11 +35,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Nevv-Englands plantation. Or, A short and true description of the commodities and discommodities of 
+
+1. To the Reader.
+
 #####Body#####
 
+1. NEW-ENGLANDS PLANTATION.
+
+    _ Of the waters of New-England with the things belonging to the same.
+
+    _ Of the Aire of New-England with the Temper and Creatures in it.
+
+    _ Of the present condition of the Plantation, and what it is.
+
 #####Back#####
-Nevv-Englands plantation. Or, A short and true description of the commodities and discommodities of 
+
+1. A Letter sent from New-England, by Master Graues, Engynere now there Resident.
+
+1. A Catalogue of such needfull things as euery Planter doth or ought to prouide to go to New-England; as namely for one man, which being doubled, may serue for as many as you please, viz.
+
+1. The names of the most remarkable places in New-England.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
